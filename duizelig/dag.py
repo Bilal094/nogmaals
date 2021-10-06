@@ -7,6 +7,7 @@ do = 'donderdag'
 vr = 'vrijdag'
 za = 'zaterdag'
 zo = 'zondag'
+# Variabelen en input
 
 while einddag == False:
     if dag == 'maandag':
