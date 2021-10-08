@@ -6,4 +6,3 @@ while i <= 999:
         print('Deze vraag is '+ str(i) +' keer gesteld.')
         break
     i=i+1
-    
